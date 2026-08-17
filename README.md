@@ -14,7 +14,7 @@ Since these boards use the 39SF040 for the PRG ROM, you should use FamiROM or so
 
 # How to Use This Board
 
-*Note: Do not solder U2 to the board before programming it.*
+*Note: Do not solder U1 to the board before programming it.*
 
 UNROM512 games require every component on the board.
 
